@@ -6,8 +6,9 @@
 
 **Welcome to my Git Repository!**
 
-I'm an enthusiastic programmer, working on Full-stack Development with 1+ Years of Experience. I'm passionate about coding to make people's daily life more easier.</br>
-I love to learning new things since I got acquainted with programming.
+I'm an enthusiastic programmer, working on Full-stack Development with 1+ Years of Experience. </br>
+I'm passionate about coding to make people's daily life more easier.</br>
+I love to learning new things since I got acquainted with programming.</br>
 
 
 - 📍 Seattle, WA
